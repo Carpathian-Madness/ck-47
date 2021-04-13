@@ -1,0 +1,708 @@
+{
+    "strikes": {
+      "geonosis_republic_phase04_conflict01_strike01": {
+        "points": {
+          "0": "GALACTIC_SCORE:0",
+          "1": "GALACTIC_SCORE:2750000"
+        },
+        "mission": {
+          "descrption": "",
+          "name": "",
+          "requires": {
+            "minimumTier": 0,
+            "capitalCategory": [],
+            "matchType": "CategoryMatchType_DEFAULT",
+            "minimumUnits": 0,
+            "minimumRarity": 0,
+            "categories": [],
+            "minimumPower": 0,
+            "mandatoryUnits": [],
+            "excludeCategories": [],
+            "minimumLevel": 0
+          }
+        },
+        "name": "Combat Mission",
+        "conflict": "geonosis_republic_phase04_conflict01"
+      },
+      "geonosis_republic_phase04_conflict02_strike01": {
+        "points": {
+          "0": "GALACTIC_SCORE:0",
+          "1": "GALACTIC_SCORE:511500",
+          "4": "GALACTIC_SCORE:1837500",
+          "2": "GALACTIC_SCORE:867000",
+          "3": "GALACTIC_SCORE:1242500"
+        },
+        "mission": {
+          "descrption": "",
+          "name": "",
+          "requires": {
+            "minimumTier": 0,
+            "capitalCategory": [],
+            "matchType": "CategoryMatchType_DEFAULT",
+            "minimumUnits": 0,
+            "minimumRarity": 0,
+            "categories": [],
+            "minimumPower": 0,
+            "mandatoryUnits": [],
+            "excludeCategories": [],
+            "minimumLevel": 0
+          }
+        },
+        "name": "Combat Mission",
+        "conflict": "geonosis_republic_phase04_conflict02"
+      },
+      "geonosis_republic_phase02_conflict01_strike01": {
+        "points": {
+          "0": "GALACTIC_SCORE:0",
+          "1": "GALACTIC_SCORE:900000"
+        },
+        "mission": {
+          "descrption": "",
+          "name": "",
+          "requires": {
+            "minimumTier": 0,
+            "capitalCategory": [],
+            "matchType": "CategoryMatchType_DEFAULT",
+            "minimumUnits": 0,
+            "minimumRarity": 0,
+            "categories": [],
+            "minimumPower": 0,
+            "mandatoryUnits": [],
+            "excludeCategories": [],
+            "minimumLevel": 0
+          }
+        },
+        "name": "Combat Mission",
+        "conflict": "geonosis_republic_phase02_conflict01"
+      },
+      "geonosis_republic_phase04_conflict03_strike02": {
+        "points": {
+          "0": "GALACTIC_SCORE:0",
+          "1": "GALACTIC_SCORE:511500",
+          "4": "GALACTIC_SCORE:1837500",
+          "2": "GALACTIC_SCORE:867000",
+          "3": "GALACTIC_SCORE:1242500"
+        },
+        "mission": {
+          "descrption": "",
+          "name": "",
+          "requires": {
+            "minimumTier": 0,
+            "capitalCategory": [],
+            "matchType": "CategoryMatchType_DEFAULT",
+            "minimumUnits": 0,
+            "minimumRarity": 0,
+            "categories": [],
+            "minimumPower": 0,
+            "mandatoryUnits": [],
+            "excludeCategories": [],
+            "minimumLevel": 0
+          }
+        },
+        "name": "Combat Mission",
+        "conflict": "geonosis_republic_phase04_conflict03"
+      },
+      "geonosis_republic_phase04_conflict03_covert01": {
+        "points": {
+          "0": "GALACTIC_SCORE:0",
+          "1": "GALACTIC_SCORE:664950",
+          "4": "GALACTIC_SCORE:2388750",
+          "2": "GALACTIC_SCORE:1127100",
+          "3": "GALACTIC_SCORE:1615250"
+        },
+        "mission": {
+          "descrption": "",
+          "name": "",
+          "requires": {
+            "minimumTier": 0,
+            "capitalCategory": [],
+            "matchType": "CategoryMatchType_DEFAULT",
+            "minimumUnits": 0,
+            "minimumRarity": 0,
+            "categories": [],
+            "minimumPower": 0,
+            "mandatoryUnits": [],
+            "excludeCategories": [],
+            "minimumLevel": 0
+          }
+        },
+        "name": "Combat Mission",
+        "conflict": "geonosis_republic_phase04_conflict03"
+      },
+      "geonosis_republic_phase03_conflict02_strike01": {
+        "points": {
+          "0": "GALACTIC_SCORE:0",
+          "1": "GALACTIC_SCORE:464000",
+          "4": "GALACTIC_SCORE:1627500",
+          "2": "GALACTIC_SCORE:775500",
+          "3": "GALACTIC_SCORE:1105000"
+        },
+        "mission": {
+          "descrption": "",
+          "name": "",
+          "requires": {
+            "minimumTier": 0,
+            "capitalCategory": [],
+            "matchType": "CategoryMatchType_DEFAULT",
+            "minimumUnits": 0,
+            "minimumRarity": 0,
+            "categories": [],
+            "minimumPower": 0,
+            "mandatoryUnits": [],
+            "excludeCategories": [],
+            "minimumLevel": 0
+          }
+        },
+        "name": "Combat Mission",
+        "conflict": "geonosis_republic_phase03_conflict02"
+      },
+      "geonosis_republic_phase01_conflict03_strike01": {
+        "points": {
+          "0": "GALACTIC_SCORE:0",
+          "1": "GALACTIC_SCORE:403000",
+          "4": "GALACTIC_SCORE:1155000",
+          "2": "GALACTIC_SCORE:573500",
+          "3": "GALACTIC_SCORE:840000"
+        },
+        "mission": {
+          "descrption": "",
+          "name": "",
+          "requires": {
+            "minimumTier": 0,
+            "capitalCategory": [],
+            "matchType": "CategoryMatchType_DEFAULT",
+            "minimumUnits": 0,
+            "minimumRarity": 0,
+            "categories": [],
+            "minimumPower": 0,
+            "mandatoryUnits": [],
+            "excludeCategories": [],
+            "minimumLevel": 0
+          }
+        },
+        "name": "Combat Mission",
+        "conflict": "geonosis_republic_phase01_conflict03"
+      },
+      "geonosis_republic_phase02_conflict03_strike02": {
+        "points": {
+          "0": "GALACTIC_SCORE:0",
+          "1": "GALACTIC_SCORE:434000",
+          "4": "GALACTIC_SCORE:1377000",
+          "2": "GALACTIC_SCORE:704000",
+          "3": "GALACTIC_SCORE:1014750"
+        },
+        "mission": {
+          "descrption": "",
+          "name": "",
+          "requires": {
+            "minimumTier": 0,
+            "capitalCategory": [],
+            "matchType": "CategoryMatchType_DEFAULT",
+            "minimumUnits": 0,
+            "minimumRarity": 0,
+            "categories": [],
+            "minimumPower": 0,
+            "mandatoryUnits": [],
+            "excludeCategories": [],
+            "minimumLevel": 0
+          }
+        },
+        "name": "Combat Mission",
+        "conflict": "geonosis_republic_phase02_conflict03"
+      },
+      "geonosis_republic_phase03_conflict01_strike01": {
+        "points": {
+          "0": "GALACTIC_SCORE:0",
+          "1": "GALACTIC_SCORE:1800000"
+        },
+        "mission": {
+          "descrption": "",
+          "name": "",
+          "requires": {
+            "minimumTier": 0,
+            "capitalCategory": [],
+            "matchType": "CategoryMatchType_DEFAULT",
+            "minimumUnits": 0,
+            "minimumRarity": 0,
+            "categories": [],
+            "minimumPower": 0,
+            "mandatoryUnits": [],
+            "excludeCategories": [],
+            "minimumLevel": 0
+          }
+        },
+        "name": "Combat Mission",
+        "conflict": "geonosis_republic_phase03_conflict01"
+      },
+      "geonosis_republic_phase04_conflict03_strike01": {
+        "points": {
+          "0": "GALACTIC_SCORE:0",
+          "1": "GALACTIC_SCORE:867000",
+          "2": "GALACTIC_SCORE:1837500"
+        },
+        "mission": {
+          "descrption": "",
+          "name": "",
+          "requires": {
+            "minimumTier": 0,
+            "capitalCategory": [],
+            "matchType": "CategoryMatchType_DEFAULT",
+            "minimumUnits": 0,
+            "minimumRarity": 0,
+            "categories": [],
+            "minimumPower": 0,
+            "mandatoryUnits": [],
+            "excludeCategories": [],
+            "minimumLevel": 0
+          }
+        },
+        "name": "Combat Mission",
+        "conflict": "geonosis_republic_phase04_conflict03"
+      },
+      "geonosis_republic_phase01_conflict02_strike02": {
+        "points": {
+          "0": "GALACTIC_SCORE:0",
+          "1": "GALACTIC_SCORE:403000",
+          "4": "GALACTIC_SCORE:1155000",
+          "2": "GALACTIC_SCORE:573500",
+          "3": "GALACTIC_SCORE:840000"
+        },
+        "mission": {
+          "descrption": "",
+          "name": "",
+          "requires": {
+            "minimumTier": 0,
+            "capitalCategory": [],
+            "matchType": "CategoryMatchType_DEFAULT",
+            "minimumUnits": 0,
+            "minimumRarity": 0,
+            "categories": [],
+            "minimumPower": 0,
+            "mandatoryUnits": [],
+            "excludeCategories": [],
+            "minimumLevel": 0
+          }
+        },
+        "name": "Combat Mission",
+        "conflict": "geonosis_republic_phase01_conflict02"
+      },
+      "geonosis_republic_phase02_conflict02_strike01": {
+        "points": {
+          "0": "GALACTIC_SCORE:0",
+          "1": "GALACTIC_SCORE:434000",
+          "4": "GALACTIC_SCORE:1377000",
+          "2": "GALACTIC_SCORE:704000",
+          "3": "GALACTIC_SCORE:1014750"
+        },
+        "mission": {
+          "descrption": "",
+          "name": "",
+          "requires": {
+            "minimumTier": 0,
+            "capitalCategory": [],
+            "matchType": "CategoryMatchType_DEFAULT",
+            "minimumUnits": 0,
+            "minimumRarity": 0,
+            "categories": [],
+            "minimumPower": 0,
+            "mandatoryUnits": [],
+            "excludeCategories": [],
+            "minimumLevel": 0
+          }
+        },
+        "name": "Combat Mission",
+        "conflict": "geonosis_republic_phase02_conflict02"
+      },
+      "geonosis_republic_phase04_conflict02_strike02": {
+        "points": {
+          "0": "GALACTIC_SCORE:0",
+          "1": "GALACTIC_SCORE:511500",
+          "4": "GALACTIC_SCORE:1837500",
+          "2": "GALACTIC_SCORE:867000",
+          "3": "GALACTIC_SCORE:1242500"
+        },
+        "mission": {
+          "descrption": "",
+          "name": "",
+          "requires": {
+            "minimumTier": 0,
+            "capitalCategory": [],
+            "matchType": "CategoryMatchType_DEFAULT",
+            "minimumUnits": 0,
+            "minimumRarity": 0,
+            "categories": [],
+            "minimumPower": 0,
+            "mandatoryUnits": [],
+            "excludeCategories": [],
+            "minimumLevel": 0
+          }
+        },
+        "name": "Combat Mission",
+        "conflict": "geonosis_republic_phase04_conflict02"
+      },
+      "geonosis_republic_phase01_conflict02_strike01": {
+        "points": {
+          "0": "GALACTIC_SCORE:0",
+          "1": "GALACTIC_SCORE:403000",
+          "4": "GALACTIC_SCORE:1155000",
+          "2": "GALACTIC_SCORE:573500",
+          "3": "GALACTIC_SCORE:840000"
+        },
+        "mission": {
+          "descrption": "",
+          "name": "",
+          "requires": {
+            "minimumTier": 0,
+            "capitalCategory": [],
+            "matchType": "CategoryMatchType_DEFAULT",
+            "minimumUnits": 0,
+            "minimumRarity": 0,
+            "categories": [],
+            "minimumPower": 0,
+            "mandatoryUnits": [],
+            "excludeCategories": [],
+            "minimumLevel": 0
+          }
+        },
+        "name": "Combat Mission",
+        "conflict": "geonosis_republic_phase01_conflict02"
+      },
+      "geonosis_republic_phase02_conflict02_strike02": {
+        "points": {
+          "0": "GALACTIC_SCORE:0",
+          "1": "GALACTIC_SCORE:434000",
+          "4": "GALACTIC_SCORE:1377000",
+          "2": "GALACTIC_SCORE:704000",
+          "3": "GALACTIC_SCORE:1014750"
+        },
+        "mission": {
+          "descrption": "",
+          "name": "",
+          "requires": {
+            "minimumTier": 0,
+            "capitalCategory": [],
+            "matchType": "CategoryMatchType_DEFAULT",
+            "minimumUnits": 0,
+            "minimumRarity": 0,
+            "categories": [],
+            "minimumPower": 0,
+            "mandatoryUnits": [],
+            "excludeCategories": [],
+            "minimumLevel": 0
+          }
+        },
+        "name": "Combat Mission",
+        "conflict": "geonosis_republic_phase02_conflict02"
+      },
+      "geonosis_republic_phase02_conflict02_covert01": {
+        "points": {
+          "0": "GALACTIC_SCORE:0",
+          "1": "GALACTIC_SCORE:564200",
+          "4": "GALACTIC_SCORE:1790100",
+          "2": "GALACTIC_SCORE:915200",
+          "3": "GALACTIC_SCORE:1319175"
+        },
+        "mission": {
+          "descrption": "",
+          "name": "",
+          "requires": {
+            "minimumTier": 0,
+            "capitalCategory": [],
+            "matchType": "CategoryMatchType_DEFAULT",
+            "minimumUnits": 0,
+            "minimumRarity": 0,
+            "categories": [],
+            "minimumPower": 0,
+            "mandatoryUnits": [],
+            "excludeCategories": [],
+            "minimumLevel": 0
+          }
+        },
+        "name": "Combat Mission",
+        "conflict": "geonosis_republic_phase02_conflict02"
+      },
+      "geonosis_republic_phase01_conflict03_covert01": {
+        "points": {
+          "0": "GALACTIC_SCORE:0",
+          "1": "GALACTIC_SCORE:523900",
+          "4": "GALACTIC_SCORE:1501500",
+          "2": "GALACTIC_SCORE:745550",
+          "3": "GALACTIC_SCORE:1092000"
+        },
+        "mission": {
+          "descrption": "",
+          "name": "",
+          "requires": {
+            "minimumTier": 0,
+            "capitalCategory": [],
+            "matchType": "CategoryMatchType_DEFAULT",
+            "minimumUnits": 0,
+            "minimumRarity": 0,
+            "categories": [],
+            "minimumPower": 0,
+            "mandatoryUnits": [],
+            "excludeCategories": [],
+            "minimumLevel": 0
+          }
+        },
+        "name": "Combat Mission",
+        "conflict": "geonosis_republic_phase01_conflict03"
+      },
+      "geonosis_republic_phase02_conflict03_strike01": {
+        "points": {
+          "0": "GALACTIC_SCORE:0",
+          "1": "GALACTIC_SCORE:434000",
+          "4": "GALACTIC_SCORE:1377000",
+          "2": "GALACTIC_SCORE:704000",
+          "3": "GALACTIC_SCORE:1014750"
+        },
+        "mission": {
+          "descrption": "",
+          "name": "",
+          "requires": {
+            "minimumTier": 0,
+            "capitalCategory": [],
+            "matchType": "CategoryMatchType_DEFAULT",
+            "minimumUnits": 0,
+            "minimumRarity": 0,
+            "categories": [],
+            "minimumPower": 0,
+            "mandatoryUnits": [],
+            "excludeCategories": [],
+            "minimumLevel": 0
+          }
+        },
+        "name": "Combat Mission",
+        "conflict": "geonosis_republic_phase02_conflict03"
+      },
+      "geonosis_republic_phase03_conflict02_covert01": {
+        "points": {
+          "0": "GALACTIC_SCORE:0",
+          "1": "GALACTIC_SCORE:603200",
+          "4": "GALACTIC_SCORE:2115750",
+          "2": "GALACTIC_SCORE:1008150",
+          "3": "GALACTIC_SCORE:1436500"
+        },
+        "mission": {
+          "descrption": "",
+          "name": "",
+          "requires": {
+            "minimumTier": 0,
+            "capitalCategory": [],
+            "matchType": "CategoryMatchType_DEFAULT",
+            "minimumUnits": 0,
+            "minimumRarity": 0,
+            "categories": [],
+            "minimumPower": 0,
+            "mandatoryUnits": [],
+            "excludeCategories": [],
+            "minimumLevel": 0
+          }
+        },
+        "name": "Special Mission",
+        "conflict": "geonosis_republic_phase03_conflict02"
+      },
+      "geonosis_republic_phase03_conflict02_strike02": {
+        "points": {
+          "0": "GALACTIC_SCORE:0",
+          "1": "GALACTIC_SCORE:464000",
+          "4": "GALACTIC_SCORE:1627500",
+          "2": "GALACTIC_SCORE:775500",
+          "3": "GALACTIC_SCORE:1105000"
+        },
+        "mission": {
+          "descrption": "",
+          "name": "",
+          "requires": {
+            "minimumTier": 0,
+            "capitalCategory": [],
+            "matchType": "CategoryMatchType_DEFAULT",
+            "minimumUnits": 0,
+            "minimumRarity": 0,
+            "categories": [],
+            "minimumPower": 0,
+            "mandatoryUnits": [],
+            "excludeCategories": [],
+            "minimumLevel": 0
+          }
+        },
+        "name": "Combat Mission",
+        "conflict": "geonosis_republic_phase03_conflict02"
+      },
+      "geonosis_republic_phase01_conflict01_strike01": {
+        "points": {
+          "0": "GALACTIC_SCORE:0",
+          "1": "GALACTIC_SCORE:523900"
+        },
+        "mission": {
+          "descrption": "",
+          "name": "",
+          "requires": {
+            "minimumTier": 0,
+            "capitalCategory": [],
+            "matchType": "CategoryMatchType_DEFAULT",
+            "minimumUnits": 0,
+            "minimumRarity": 0,
+            "categories": [],
+            "minimumPower": 0,
+            "mandatoryUnits": [],
+            "excludeCategories": [],
+            "minimumLevel": 0
+          }
+        },
+        "name": "Combat Mission",
+        "conflict": "geonosis_republic_phase01_conflict01"
+      },
+      "geonosis_republic_phase03_conflict03_strike01": {
+        "points": {
+          "0": "GALACTIC_SCORE:0",
+          "1": "GALACTIC_SCORE:464000",
+          "4": "GALACTIC_SCORE:1627500",
+          "2": "GALACTIC_SCORE:775500",
+          "3": "GALACTIC_SCORE:1105000"
+        },
+        "mission": {
+          "descrption": "",
+          "name": "",
+          "requires": {
+            "minimumTier": 0,
+            "capitalCategory": [],
+            "matchType": "CategoryMatchType_DEFAULT",
+            "minimumUnits": 0,
+            "minimumRarity": 0,
+            "categories": [],
+            "minimumPower": 0,
+            "mandatoryUnits": [],
+            "excludeCategories": [],
+            "minimumLevel": 0
+          }
+        },
+        "name": "Combat Mission",
+        "conflict": "geonosis_republic_phase03_conflict03"
+      }
+    },
+    "name": "GEONOSIS: REPUBLIC OFFENSIVE",
+    "id": "t04D",
+    "conflicts": {
+      "geonosis_republic_phase03_conflict02": {
+        "stars": [
+          132310000,
+          257065000,
+          378035000
+        ],
+        "name": "Separatist Command",
+        "combatType": "UNITS",
+        "description": "The Separatist council members have retreated to the Separatist Command center. Infiltrate and crush them before they can formulate an escape plan!"
+      },
+      "geonosis_republic_phase01_conflict01": {
+        "stars": [
+          42475000,
+          84950000,
+          141580000
+        ],
+        "name": "Galactic Republic Fleet",
+        "combatType": "SHIPS",
+        "description": "Engage the Separatist fleet and study their Formations!"
+      },
+      "geonosis_republic_phase03_conflict03": {
+        "stars": [
+          110615000,
+          165925000,
+          221230000
+        ],
+        "name": "Petranaki Arena",
+        "combatType": "UNITS",
+        "description": "Separatist forces have dug in at the Petranaki Arena. Destroy them! [c][f58c96]Beware:[-][/c] A ferocious beast lurks among the chaos inside!"
+      },
+      "geonosis_republic_phase04_conflict01": {
+        "stars": [
+          122490000,
+          340255000,
+          453670000
+        ],
+        "name": "Separatist Armada",
+        "combatType": "SHIPS",
+        "description": "Destroy what remains of the Separatists' armada before they retreat with their remaining battle droids!"
+      },
+      "geonosis_republic_phase01_conflict02": {
+        "stars": [
+          110240000,
+          166640000,
+          256370000
+        ],
+        "name": "Count Dooku's Hangar",
+        "combatType": "UNITS",
+        "description": "The Separatists are attempting to leave the planet with plans for the ultimate weapon. Stop them!"
+      },
+      "geonosis_republic_phase02_conflict03": {
+        "stars": [
+          121030000,
+          217235000,
+          310335000
+        ],
+        "name": "Sand Dunes",
+        "combatType": "UNITS",
+        "description": "Separatist forces have taken cover in the Sand Dunes. Pursue them!"
+      },
+      "geonosis_republic_phase01_conflict03": {
+        "stars": [
+          86275000,
+          120425000,
+          179740000
+        ],
+        "name": "Rear Flank",
+        "combatType": "UNITS",
+        "description": "Assist the Republic as it begins its offensive against the Separatist droid army!"
+      },
+      "geonosis_republic_phase03_conflict01": {
+        "stars": [
+          91395000,
+          152325000,
+          217610000
+        ],
+        "name": "Contested Airspace (Separatist)",
+        "combatType": "SHIPS",
+        "description": "Push back the Separatist space forces before they can support their defenses on the ground!"
+      },
+      "geonosis_republic_phase04_conflict03": {
+        "stars": [
+          117510000,
+          268600000,
+          335750000
+        ],
+        "name": "Canyons",
+        "combatType": "UNITS",
+        "description": "Pursue the scattered remains of the Separatist ground forces through the Canyons! Defeat them and claim victory on the ground!"
+      },
+      "geonosis_republic_phase02_conflict02": {
+        "stars": [
+          96220000,
+          174235000,
+          260055000
+        ],
+        "name": "Battleground",
+        "combatType": "UNITS",
+        "description": "The fight rages across the Battleground! Destroy the Separatists to weaken their defenses!"
+      },
+      "geonosis_republic_phase04_conflict02": {
+        "stars": [
+          152945000,
+          270930000,
+          436980000
+        ],
+        "name": "Factory Waste",
+        "combatType": "UNITS",
+        "description": "Infiltrate the droid factory from the canyons below and stop Separatist production!"
+      },
+      "geonosis_republic_phase02_conflict01": {
+        "stars": [
+          71075000,
+          133535000,
+          215380000
+        ],
+        "name": "Contested Airspace (Republic)",
+        "combatType": "SHIPS",
+        "description": "Provide air support for the Republic fleet as it mobilizes to destroy Separatist droid transports!"
+      }
+    }
+  }
